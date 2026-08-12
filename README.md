@@ -1,28 +1,19 @@
 # Pure Tokens
 
-独立开发者 · 5 年开发 + 3 年产品  
-构建 API 产品、桌面客户端与 AI 工具链。
+Official tools, releases, and developer resources for the Pure Tokens ecosystem.
 
-## 现在在做什么
+## Products
 
-- [Pure Tokens](https://www.puretokensx.com/) — API 产品与控制台
-- [Pure Tokens Switch](https://puretokensx.com/switch) — 桌面客户端配置、本地路由与发行
-- [puretokens-desktop-releases](https://github.com/yanyansay/puretokens-desktop-releases) — 官方安装包与更新 manifest
+- [Pure Tokens](https://www.puretokensx.com/) - AI API platform and console
+- [Pure Tokens Switch](https://puretokensx.com/switch) - Desktop configuration and local routing client
+- [Pure Tokens Desktop Releases](https://github.com/PureTokens/puretokens-desktop-releases) - Signed installers and update manifests
 
-## 公开代表作品
+## Developer Resources
 
-- [puretokens-desktop-releases](https://github.com/yanyansay/puretokens-desktop-releases) — Pure Tokens 桌面客户端官方发行仓库
-- [andrej-karpathy-skills-codex](https://github.com/yanyansay/andrej-karpathy-skills-codex) — Codex 可用的 Karpathy coding guidelines skill
-- [open_ide](https://github.com/yanyansay/open_ide) — 终端一键打开本地 IDE（`o`）
-- [content-capture-kit](https://github.com/yanyansay/content-capture-kit) — X / 公众号 / 网页内容导出到 Obsidian
-- [open-obsidian](https://github.com/yanyansay/open-obsidian) — 终端一键用 Obsidian 打开文件夹（`ob`）
+- [Pure Tokens Skill](https://github.com/PureTokens/puretokens-skill) - Installable skills and tooling for supported AI clients
+- [Pure Tokens Switch](https://github.com/PureTokens/Pure_Tokens_Switch) - Desktop application source and client integration work
 
-## 技术栈
+## Official Links
 
-TypeScript · Node.js · Rust / Tauri · Cloudflare · GitHub Actions
-
-## 联系
-
-- 官网：https://www.puretokensx.com/
-- 公众号：焰焰 say
-- GitHub：https://github.com/yanyansay
+- Website: [puretokensx.com](https://www.puretokensx.com/)
+- GitHub: [@PureTokens](https://github.com/PureTokens)
