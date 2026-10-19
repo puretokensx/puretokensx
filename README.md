@@ -17,10 +17,10 @@ Official products, releases, and developer resources for the Pure Tokens ecosyst
 
 ## Open Source and Releases
 
-- [puretokens-skill](https://github.com/PureTokens/puretokens-skill) - Installable skills and tooling for supported AI clients
-- [puretokens-desktop-releases](https://github.com/PureTokens/puretokens-desktop-releases) - Official desktop installers and update manifests
+- [puretokens-skill](https://github.com/puretokensx/puretokens-skill) - Installable skills and tooling for supported AI clients
+- [puretokens-desktop-releases](https://github.com/puretokensx/puretokens-desktop-releases) - Official desktop installers and update manifests
 
 ## Official Links
 
 - Website: [puretokensx.com](https://www.puretokensx.com/)
-- GitHub: [@PureTokens](https://github.com/PureTokens)
+- GitHub: [@puretokensx](https://github.com/puretokensx)

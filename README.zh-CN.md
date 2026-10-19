@@ -17,10 +17,10 @@ Pure Tokens 官方产品、发行版本与开发者资源。
 
 ## 开源与发行
 
-- [puretokens-skill](https://github.com/PureTokens/puretokens-skill) - 面向已支持 AI 客户端的可安装技能与工具
-- [puretokens-desktop-releases](https://github.com/PureTokens/puretokens-desktop-releases) - 官方桌面安装包与更新清单
+- [puretokens-skill](https://github.com/puretokensx/puretokens-skill) - 面向已支持 AI 客户端的可安装技能与工具
+- [puretokens-desktop-releases](https://github.com/puretokensx/puretokens-desktop-releases) - 官方桌面安装包与更新清单
 
 ## 官方链接
 
 - 官网：[puretokensx.com](https://www.puretokensx.com/)
-- GitHub：[@PureTokens](https://github.com/PureTokens)
+- GitHub：[@puretokensx](https://github.com/puretokensx)
